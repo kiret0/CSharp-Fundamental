@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortArrayOfNumbers", "01.SortArrayOfNumbers\01.SortArrayOfNumbers.csproj", "{802044F9-217E-4861-857C-2E2FAA32732B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SortOfArrayOfNumbersUsingSelSort", "02.SortOfArrayOfNumbersUsingSelSort\02.SortOfArrayOfNumbersUsingSelSort.csproj", "{A7312299-0C4A-4625-B0DD-1F29FDCA921F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CategorizeNumsAndFindMinMaxAvg", "03.CategorizeNumsAndFindMinMaxAvg\03.CategorizeNumsAndFindMinMaxAvg.csproj", "{B910885F-E5A1-4009-8F97-10EE22178C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SequencesOfEqualStrings", "04.SequencesOfEqualStrings\04.SequencesOfEqualStrings.csproj", "{B51EBE7F-05B2-44C5-97E3-EEC416904EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.LongestIncreasingSequence", "05.LongestIncreasingSequence\05.LongestIncreasingSequence.csproj", "{BBDF8FB8-FD3B-4AE4-9F18-4389676459FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SubsetSum", "06.SubsetSum\06.SubsetSum.csproj", "{5AF9694E-2A0B-4BD4-9678-4778A3E91694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.LegoBlocks", "08.LegoBlocks\08.LegoBlocks.csproj", "{1BCA1A5A-90AC-473E-B492-65890B210671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802044F9-217E-4861-857C-2E2FAA32732B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802044F9-217E-4861-857C-2E2FAA32732B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802044F9-217E-4861-857C-2E2FAA32732B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802044F9-217E-4861-857C-2E2FAA32732B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7312299-0C4A-4625-B0DD-1F29FDCA921F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7312299-0C4A-4625-B0DD-1F29FDCA921F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7312299-0C4A-4625-B0DD-1F29FDCA921F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7312299-0C4A-4625-B0DD-1F29FDCA921F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B910885F-E5A1-4009-8F97-10EE22178C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B910885F-E5A1-4009-8F97-10EE22178C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B910885F-E5A1-4009-8F97-10EE22178C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B910885F-E5A1-4009-8F97-10EE22178C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51EBE7F-05B2-44C5-97E3-EEC416904EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51EBE7F-05B2-44C5-97E3-EEC416904EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51EBE7F-05B2-44C5-97E3-EEC416904EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51EBE7F-05B2-44C5-97E3-EEC416904EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDF8FB8-FD3B-4AE4-9F18-4389676459FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDF8FB8-FD3B-4AE4-9F18-4389676459FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDF8FB8-FD3B-4AE4-9F18-4389676459FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDF8FB8-FD3B-4AE4-9F18-4389676459FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF9694E-2A0B-4BD4-9678-4778A3E91694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF9694E-2A0B-4BD4-9678-4778A3E91694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF9694E-2A0B-4BD4-9678-4778A3E91694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF9694E-2A0B-4BD4-9678-4778A3E91694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BCA1A5A-90AC-473E-B492-65890B210671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCA1A5A-90AC-473E-B492-65890B210671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCA1A5A-90AC-473E-B492-65890B210671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCA1A5A-90AC-473E-B492-65890B210671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
